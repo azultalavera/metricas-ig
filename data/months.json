@@ -1,0 +1,69 @@
+{
+  "2026-05": {
+    "id": "2026-05",
+    "name": "Mayo 2026",
+    "kpis": {
+      "totalViews": 268000,
+      "mainViews": 209681,
+      "netFollowers": 110,
+      "interactions": 5650,
+      "reels": 7,
+      "dumps": 2,
+      "stories": 112,
+      "nonFollowersReachPercent": 66,
+      "followersReachPercent": 34,
+      "mainFollowersPercent": 53.2,
+      "mainNonFollowersPercent": 46.8
+    },
+    "posts": [
+      { "id": 1, "title": "Hotel para perros", "type": "Reel", "views": 14327, "reach": 9952, "avgTime": 5, "newFollowers": 1 },
+      { "id": 2, "title": "Outfit camiseta del mundial", "type": "Reel", "views": 14271, "reach": 9373, "avgTime": 21, "newFollowers": 68, "isTopConverter": true },
+      { "id": 3, "title": "Cordova", "type": "Dump", "views": 10141, "reach": 4061, "avgTime": 152, "newFollowers": 4 },
+      { "id": 4, "title": "Outfit camiseta del mundial 2", "type": "Reel", "views": 9759, "reach": 7005, "avgTime": 25, "newFollowers": 44 },
+      { "id": 5, "title": "Post día del orgullo", "type": "Dump", "views": 9092, "reach": 3319, "avgTime": 85, "newFollowers": 1 }
+    ],
+    "demographics": [
+      { "country": "Argentina", "percentage": 32.0 },
+      { "country": "Estados Unidos", "percentage": 17.6 },
+      { "country": "España", "percentage": 6.7 },
+      { "country": "México", "percentage": 4.9 },
+      { "country": "Uruguay", "percentage": 3.3 },
+      { "country": "Otros países", "percentage": 35.5 }
+    ],
+    "peakHours": {
+      "Mar": ["n1", "n2"],
+      "Dom": ["n1"]
+    },
+    "rawCsv": ",30 días,209681,110,5650,\"53,2\",\"46,8\"\n\nReels/dumps,Reel,Dump,Visualizaciones,Cuentas alcanzadas,Tiempo promedio (s),Nuevos seguidores\nHotel para perros,x,,14327,9952,5,1\nOutfit camiseta del mundial,x,,14271,9373,21,68\nCordova,,x,10141,4061,152,4\nOutfit camiseta del mundial 2,x,,9759,7005,25,44\nPost día del orgullo,,x,9092,3319,85,1\n\nPúblico (%)\nArgentina,32\nEstados unidos,17,6\nEspaña,6,7\nMéxico,4,9\nUruguay,3,3\n\nResumen General\nVisualizaciones Totales: 268000\nNo seguidores: 66% | Seguidores: 17000\nReels: 7 | Publicaciones: 2 | Historias: 112\n\nMomentos de mayor actividad\nMartes: 6-9 pm, 9-12 pm\nDomingo: 6-9 pm"
+  },
+  "2026-07": {
+    "id": "2026-07",
+    "name": "Julio 2026",
+    "kpis": {
+      "totalViews": 240000,
+      "mainViews": 0,
+      "netFollowers": null,
+      "interactions": null,
+      "reels": 13,
+      "dumps": 4,
+      "stories": 113,
+      "nonFollowersReachPercent": 48,
+      "followersReachPercent": 52,
+      "mainFollowersPercent": null,
+      "mainNonFollowersPercent": null
+    },
+    "posts": [],
+    "demographics": [
+      { "country": "Argentina", "percentage": 0 },
+      { "country": "Estados unidos", "percentage": 0 },
+      { "country": "España", "percentage": 0 },
+      { "country": "México", "percentage": 0 },
+      { "country": "Uruguay", "percentage": 0 }
+    ],
+    "peakHours": {
+      "Mar": ["n1", "n2"],
+      "Dom": ["n1"]
+    },
+    "rawCsv": ",,,,,,,\r\n,JULIO,,,,,,\r\n,Últimos,Visualizaciones,Seguidores netos,Interacciones,Seguidores,No seguidores,\r\n,30 días,,,,,,\r\n,,,,,,,\r\n,,,,,,,\r\n,Reels/dumps,Reel ,Dump,Visualizaciones,Cuentas alcanzadas,Tiempo promedio de reproduccion (segundos),Nuevos seguidores\r\n,,,,,,,\r\n,,,,,,,\r\n,,,,,,,\r\n,,,,,,,\r\n,,,,,,,\r\n,,,,,,,\r\n,,,,,,,\r\n,Público,%,,,,,\r\n,Argentina,,,,,,\r\n,Estados unidos,,,,,,\r\n,España,,,,,,\r\n,México,,,,,,\r\n,Uruguay,,,,,,\r\n,,,,,,,\r\n,Resumen de lo que pasó en el mes,,,,,,\r\n,Visualizaciones,Visualizaciones de no seguidores,Seguidores,,,,\r\n,240000,48%,17000,,,,\r\n,,,,,,,\r\n,,,,,,,\r\n,Compartiste,,,,,,\r\n,reels,publicaciones,Historias,,,,\r\n,13,4,113,,,,\r\n,,,,,,,\r\n,Momentos de mayor actividad,,,,,,\r\n,,Martes,Domingo,,,,\r\n,6-9 pm,x,x,,,,\r\n,9 -12 pm,x,,,,,"
+  }
+}
